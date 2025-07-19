@@ -97,9 +97,9 @@ java -cp .:mysql-connector-j-8.0.33.jar GarageBillingSystem
 
 **Varad Naik**
 
-- 📧 Email: [naikvarad049@gmail.com](mailto:naikvarad049@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/varadnaikofficial](https://www.linkedin.com/in/varadnaikofficial)  
-- 🐙 GitHub: [github.com/varad1969](https://github.com/varad1969)
+- 📧 Email: [naikvarad049@gmail.com]
+- 🔗 LinkedIn: (https://www.linkedin.com/in/varadnaikofficial)  
+- 🐙 GitHub: (https://github.com/varad1969)
 
 
 
