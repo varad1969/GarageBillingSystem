@@ -95,7 +95,11 @@ java -cp .:mysql-connector-j-8.0.33.jar GarageBillingSystem
 
 ## 👨‍💻 Author
 
- Varad Naik
-📧 Email: naikvarad049@gmail.com
+**Varad Naik**
+
+[![Gmail](https://img.shields.io/badge/Gmail-naikvarad049@gmail.com-red?logo=gmail&logoColor=white)](mailto:naikvarad049@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/varadnaikofficial)  
+[![GitHub](https://img.shields.io/badge/GitHub-varad1969-black?logo=github)](https://github.com/varad1969)
+
 
 
