@@ -93,11 +93,8 @@ java -cp .:mysql-connector-j-8.0.33.jar GarageBillingSystem
  Export Reports to Excel/CSV
 
 👨‍💻 Author
-## 👨‍💻 Author
 
 **Varad Naik**  
 📧 [naikvarad049@gmail.com](mailto:naikvarad049@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/varadnaikofficial)  
 🐙 [GitHub](https://github.com/varad1969)
-
-
